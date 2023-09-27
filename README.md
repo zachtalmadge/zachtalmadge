@@ -26,3 +26,6 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png?size=48" alt="Flask" width="75">
     <img src="https://avatars.githubusercontent.com/u/177543?s=40&v=4" alt="Postgres" width="75">
 </p>
+
+<h3>Latest Blog Post</h3>
+* <a href="https://medium.com/@zach.talmadge.webdev/audio-abyss-a-deep-dive-a17d567d1051">Audio Abyss: A Deep Dive</a>
