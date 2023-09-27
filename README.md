@@ -7,6 +7,7 @@
 - 🥅 Goals: Become a Senior Software Engineer
 - ⭐️ Fun fact: I can play "Ode to Joy" on the dial keypad
 
+<h3>Connect with me</h3>
 <a href="https://www.linkedin.com/in/zach-talmadge/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
