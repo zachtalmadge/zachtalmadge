@@ -28,4 +28,4 @@
 </p>
 
 <h3>Latest Blog Post</h3>
-* <a href="https://medium.com/@zach.talmadge.webdev/audio-abyss-a-deep-dive-a17d567d1051">Audio Abyss: A Deep Dive</a>
+<li><a href="https://medium.com/@zach.talmadge.webdev/audio-abyss-a-deep-dive-a17d567d1051">Audio Abyss: A Deep Dive</a></li>
