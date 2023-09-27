@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Zach Talmadge 👋</h1>
+<h1>Hi there, I'm Zachary Talmadge 👋</h1>
 
 <h3>I'm a Full-stack Developer, Music Lover, Gym Enthusiast and Lifelong Foodie!!</h3>
 
