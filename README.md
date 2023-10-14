@@ -27,6 +27,6 @@
     <img src="https://avatars.githubusercontent.com/u/177543?s=40&v=4" alt="Postgres" width="75">
 </p>
 
-<h3>Latest Blog Post</h3>
+<h3>Latest Blog Posts</h3>
 <li><a href="https://medium.com/@zach.talmadge.webdev/code-switch-moving-to-python-from-javascript-with-ease-4871c79e751a">Code Switch: Moving To Python From JavaScript With Ease</a></li>
 <li><a href="https://medium.com/@zach.talmadge.webdev/audio-abyss-a-deep-dive-a17d567d1051">Audio Abyss: A Deep Dive</a></li>
