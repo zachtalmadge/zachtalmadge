@@ -24,7 +24,6 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=48" alt="MySQL" width="75">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48" alt="Python" width="75">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png?size=48" alt="Flask" width="75">
-    <img src="https://avatars.githubusercontent.com/u/177543?s=40&v=4" alt="Postgres" width="75">
 </p>
 
 <h3>Latest Blog Posts</h3>
