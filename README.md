@@ -27,6 +27,6 @@
 </p>
 
 <h3>Latest Blog Posts</h3>
+<li><a href="https://medium.com/@zach.talmadge.webdev/from-node-to-flask-deciphering-the-best-stack-for-your-next-project-053cce60d469">From Node to Flask: Deciphering the Best Stack for Your Next Project</a></li>
 <li><a href="https://medium.com/@zach.talmadge.webdev/ready-set-prep-data-structures-for-your-upcoming-tech-interview-08d6f1b78eaa">Ready, Set, Prep: Data Structures for Your Upcoming Tech Interview</a></li>
 <li><a href="https://medium.com/@zach.talmadge.webdev/code-switch-moving-to-python-from-javascript-with-ease-4871c79e751a">Code Switch: Moving To Python From JavaScript With Ease</a></li>
-<li><a href="https://medium.com/@zach.talmadge.webdev/audio-abyss-a-deep-dive-a17d567d1051">Audio Abyss: A Deep Dive</a></li>
