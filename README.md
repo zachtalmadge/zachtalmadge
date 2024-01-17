@@ -1,6 +1,7 @@
 <h1>Hi there, I'm Zach Talmadge 👋</h1>
 
 <h3>I'm a Full-stack Developer, Music Lover, Gym Enthusiast and Lifelong Foodie!!</h3>
+<a href="zacharytalmadge-70cc3.web.app">Personal Website</a>
 
 - 🔭 I'm currently searching for a Software Engineering role or apprenticeship
 - 🌱 Right now, I am learning Data Structure & Algorithms
