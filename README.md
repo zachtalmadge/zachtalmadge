@@ -3,8 +3,8 @@
 <h3>I'm a Full-stack Developer, Music Lover, Gym Enthusiast and Lifelong Foodie!!</h3>
 
 - 🔭 I'm currently searching for a Software Engineering role or apprenticeship
-- 🌱 Right now, I am learning how to set up back-end servers with Python
-- 🥅 Goals: Become a Senior Software Engineer
+- 🌱 Right now, I am learning Data Structure & Algorithms
+- 🥅 Goals: Become a Senior Software Engineer within 5-7 years of landing my first role
 - ⭐️ Fun fact: I can play "Ode to Joy" on the dial keypad
 
 <h3>Connect with me</h3>
