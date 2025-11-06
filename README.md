@@ -9,7 +9,7 @@ I'm a QA professional passionate about delivering exceptional software experienc
 
 ### 🔍 What I'm Up To
 - 🎯 **Currently:** Seeking QA Engineer or SDET roles where I can contribute to building robust, reliable software
-- 🚀 **Featured Project:** Check out my comprehensive QA work on **[Roadie](link-to-roadie)** - including test plans, automated test suites, and complete testing documentation
+- 🚀 **Featured Project:** Check out my comprehensive QA work on **[Roadie]([https://github.com/zachtalmadge/Roadie/tree/QA_testing])** - including test plans, automated test suites, and complete testing documentation
 - 📚 **Learning:** Advanced test automation patterns, performance testing strategies, and CI/CD integration techniques
 - 🎯 **2025 Goal:** Establish myself as a Lead QA Engineer, driving quality excellence and mentoring teams
 
