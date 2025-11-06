@@ -1,11 +1,36 @@
-<h1>Hi there, I'm Zach Talmadge 👋</h1>
+# Hi there, I'm Zach Talmadge 👋
 
-<h3>I'm a Full-stack Developer, Music Lover, Gym Enthusiast and Lifelong Foodie!!</h3>
+**Quality Assurance Engineer | Test Automation Enthusiast | Building Quality into Every Release**
 
-- 🔭 I'm currently searching for a Software Engineering role or apprenticeship
-- 🌱 Right now, I am learning Data Structure & Algorithms
-- 🥅 Goals: Become a Senior Software Engineer within 5-7 years of landing my first role
-- ⭐️ Fun fact: I can play "Ode to Joy" on the dial keypad
+### About Me
+I'm a QA professional passionate about delivering exceptional software experiences through comprehensive testing strategies, automation frameworks, and a quality-first mindset. When I'm not designing test cases or debugging flaky tests, you'll find me exploring new music, hitting the gym, or discovering the next great restaurant!
+
+---
+
+### 🔍 What I'm Up To
+- 🎯 **Currently:** Seeking QA Engineer or SDET roles where I can contribute to building robust, reliable software
+- 🚀 **Featured Project:** Check out my comprehensive QA work on **[Roadie](link-to-roadie)** - including test plans, automated test suites, and complete testing documentation
+- 📚 **Learning:** Advanced test automation patterns, performance testing strategies, and CI/CD integration techniques
+- 🎯 **2025 Goal:** Establish myself as a Lead QA Engineer, driving quality excellence and mentoring teams
+
+---
+
+### 🛠️ Testing Expertise
+- **Test Strategy & Planning:** Risk-based testing, test case design, quality metrics
+- **Automation:** Selenium, Cypress, API testing, CI/CD integration
+- **Methodologies:** Agile/Scrum, Shift-left testing, Exploratory testing
+- **Tools:** Jira, Git, Jenkins, Postman, and more
+
+---
+
+### 🎸 Fun Fact
+I can play "Ode to Joy" on a dial keypad - proving that attention to detail and creativity go hand in hand!
+
+---
+
+### 📫 Let's Connect
+💼 Explore my QA portfolio, especially the **Roadie project**, to see my testing approach in action!
+
 
 <h3>Connect with me</h3>
 <a href="https://www.linkedin.com/in/zach-talmadge/" style="display: inline-block;">
