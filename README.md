@@ -11,7 +11,7 @@ I’m a full-stack engineer who cares deeply about building software that works�
 - 🎯 **Currently:** Seeking full-stack roles where I can ship impact-oriented products (TypeScript/React + backend + data) with high standards for quality, security, and ethics  
 - 🚀 **Most recent project:** **Reframe.me** — an AI-assisted web app that helps justice-impacted people translate their experience into employer-ready narratives and documents (React 18 + TypeScript + Express + Vercel)  
 - 🧪 **Featured engineering quality work:** **[Roadie (QA Testing)](https://github.com/zachtalmadge/Roadie/tree/QA_testing)** — test strategy, automated suites, and documentation demonstrating a test pyramid approach and measurable quality improvements  
-- 📚 **Learning:** Production reliability patterns, API design, SQL depth (Postgres), and scalable system design for real-world users  
+- 📚 **Learning:** Building with agentic AI tools (Claude CLI/Cursor/Copilot) to accelerate iteration—using structured prompts, code review/refactor workflows, and test generation—while keeping a high bar for correctness, security, and maintainability  
 - 🎯 **2026 focus:** Ship more production-grade, mission-aligned software and contribute to stronger engineering culture through testing, documentation, and thoughtful collaboration  
 
 ---
@@ -52,6 +52,11 @@ If you’re building software that needs to be reliable, ethical, and genuinely 
 
 <h3>Technology Stack</h3>
 <p float="left">
+  <!-- AI Tools -->
+  <img src="https://cdn.simpleicons.org/openai" alt="ChatGPT / OpenAI" width="75">
+  <img src="https://cdn.simpleicons.org/anthropic" alt="Claude / Anthropic" width="75">
+
+  <!-- Core Stack -->
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" alt="JavaScript" width="75">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png?size=48" alt="TypeScript" width="75">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429e7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48" alt="React" width="75">
@@ -61,6 +66,7 @@ If you’re building software that needs to be reliable, ethical, and genuinely 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48" alt="Python" width="75">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png?size=48" alt="Flask" width="75">
 </p>
+
 
 <h3>Latest Blog Posts</h3>
 <li><a href="https://medium.com/@zach.talmadge.webdev/from-node-to-flask-deciphering-the-best-stack-for-your-next-project-053cce60d469">From Node to Flask: Deciphering the Best Stack for Your Next Project</a></li>
