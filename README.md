@@ -59,7 +59,7 @@ If you’re building software that needs to be reliable, ethical, and genuinely 
   <!-- Core Stack -->
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" alt="JavaScript" width="75">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png?size=48" alt="TypeScript" width="75">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429e7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48" alt="React" width="75">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48" alt="React" width="75">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png?size=48" alt="Node.js" width="75">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png?size=48" alt="MongoDB" width="75">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=48" alt="MySQL" width="75">
